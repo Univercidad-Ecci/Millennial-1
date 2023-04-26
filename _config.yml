@@ -1,4 +1,4 @@
-# Site Build Settings
+# Configuración de creación del sitio
 
 # jekyll-paginate configuration
 paginate:            5
@@ -6,8 +6,8 @@ paginate:            5
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+enlace permanente :            / : título
+complementos : [ jekyll-paginate , jekyll-sitemap , jekyll-feed , jekyll-seo-tag ]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "mecatronica-1"
